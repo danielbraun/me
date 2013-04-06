@@ -1,3 +1,14 @@
 h1 {
     padding-top: 4em;
 }
+
+
+body {
+	background-image: url('../img/background.png');
+	color: rgb(252,223,43);
+}
+
+
+a {
+	color: rgb(75,213,238);
+}
